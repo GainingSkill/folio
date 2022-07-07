@@ -1,0 +1,10 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
